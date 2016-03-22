@@ -1,6 +1,7 @@
 ToDo:
 
 Pull in everyone's github and then analyze skills based on github accounts.
+Use github API for this
 
 What we care about:
 
